@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**Eltonuser/Eltonuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elton,soon a Front-end developer based in Kosovo
 
-Here are some ideas to get you started:
+I bulid website whatever i imagine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If any idea pops into my head ,chance are that i bulid it 
+
+My main skills are Html,Css,Javascript,Bootstrap,soon will be React, My favriot one is React as i am learing now , and i also use Figma for design
+
+I am soon bulding Website and Profolio
+
+
+Fun fact:
+• I don't like coffe 
+• Demon Slayer is my favorite anime 
+• Hobbie:Gym,Football,Anime,Building
